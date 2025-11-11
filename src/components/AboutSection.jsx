@@ -40,7 +40,7 @@ export const AboutSection = () => {
 
                 {/* Button for English CV */}
                 <a
-                    href="/projects/CV%20MOSTAKIR_Abdelfettah.pdf" // Update with the actual path to your English CV
+                    href="/projects/CV%20Abdelfettah_MOSTAKIR.pdf" // Update with the actual path to your English CV
                     download="ABDELFATTAH MOSTAKIR - CV English.pdf" // Suggests a filename for download
                     className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 flex items-center justify-center"
                 >
