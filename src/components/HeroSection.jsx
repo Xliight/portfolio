@@ -21,8 +21,8 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I build scalable backend systems with Java and Spring Boot, design microservice  <br /> architectures tailored for growth. <br />
-            & apply DevOps practices to deliver secure, automated, cloud-ready solutions.
+            I build scalable backend systems with Java and Spring Boot, design microservice  <br /> architectures tailored for growth  & apply DevOps practices to <br />
+            deliver secure, automated, cloud-ready solutions.
           </p>
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
             <a href="#projects" className="cosmic-button">
