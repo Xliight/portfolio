@@ -6,7 +6,7 @@ const projects = [
     id: 1,
     title: "Insurance Sector Applications",
     company: "Diot Sciaci Technology (07/2025 - Now)",
-    description: "Development and enhancement of robust applications for the insurance sector, including implementation of new business features, performance optimization, and integration of a marketing campaign project using **Artificial Intelligence**. Implemented CI/CD pipelines.",
+    description: " Development and enhancement of applications for the insurance sector. Involved in the conception and implementation of new business features , performance optimization, and bug fixing. Contributed to a project integrating Artificial Intelligence for marketing campaigns and established CI/CD pipelines",
     image: "/projects/download.jpeg", // Placeholder image
     tags: ["Java 21", "Spring Boot", "Angular 19", "FastAPI", "K8S", "PostgreSQL", "GitLab CI", "AI Integration"],
     demoUrl: "#", // Update with actual links if available
@@ -18,7 +18,7 @@ const projects = [
     id: 2,
     title: "High-Performance Insurance Management Platform",
     company: "EASYPEASY (HORIZON GROUP) (02/2025-06/2025)",
-    description: "Contributed to the development and enhancement of a large-scale insurance management platform. Participated in the implementation of a high-performance **Microservices Architecture** and deployment/monitoring of services on **AWS**.",
+    description: "Contributed to the development and enhancement of a large-scale insurance management platform. Participated in the implementation of a high-performance with microservices architecture and deployment/monitoring of services on AWS.",
     image: "/projects/pizi.png", // Placeholder image
     tags: ["Java 21", "Spring Boot", "Microservices", "PostgreSQL", "AWS", "CI/CD"],
     demoUrl: "#",
@@ -31,7 +31,7 @@ const projects = [
     id: 3,
     title: "Backend Architecture Optimization",
     company: "EAMBITION (Internship) (09/2024-01/2025)",
-    description: "Development of robust backend applications and optimization of backend architectures. Focused on improving application performance and software quality via unit and integration testing. Managed deployment monitoring.",
+    description: "Developed robust Java backend applications and focused on optimizing backend architectures. Successfully improved application performance and software quality by +40% through unit and integration testing. Integrated CI/CD pipelines (Jenkins) and collaborated on environment management and deployment monitoring (Kubernetes/ArgoCD).",
     image: "/projects/eambition.jpeg", // Placeholder image
     tags: ["Java 17", "Spring Boot", "PostgreSQL", "Kubernetes", "Jenkins", "SonarQube", "ArgoCD"],
     demoUrl: "#",
@@ -43,7 +43,7 @@ const projects = [
     id: 4,
     title: "FullStack Electronic Health Platform",
     company: "OFFZONE AGENCY (Internship) (02/2024-08/2024)",
-    description: "Developed a comprehensive electronic health platform. Involved in the full stack, designing **backend features** with Spring Boot and developing the **Frontend** with ReactJS. Managed appointments, patient records, and integrated with **Docker**.",
+    description: "Developed a complete electronic health platform. Handled full-stack development, implementing backend features with Spring Boot and front-end interfaces with ReactJS. Managed patient records, appointments, and secure communication. Contributed to integration and deployment using Docker.",
     image: "/projects/offzone.jpeg", // Placeholder image
     tags: ["Spring Boot", "ReactJS", "MySQL", "Docker", "FullStack"],
     demoUrl: "#",
@@ -55,7 +55,7 @@ const projects = [
     id: 5,
     title: "Freelance SaaS Property Management Platform",
     company: "SMART-M (Freelance) (10/2023-01/2024)",
-    description: "Participation in the development of an online SaaS platform for property management. Contributed to **FullStack** implementation and infrastructure, including cloud architecture and deployments on **AWS** using **Terraform**.",
+    description: "Contributed to the development of an online SaaS platform for property management. Responsibilities included implementing backend features with Spring Boot and developing front-end interfaces. Key contribution to cloud architecture and deployments on AWS using Terraform.",
     image: "/projects/syndicat.jpeg", // Placeholder image
     tags: ["Spring Boot", "ReactJS", "PostgreSQL", "AWS", "Terraform", "FullStack"],
     demoUrl: "#",
