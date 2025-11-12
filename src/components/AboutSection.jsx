@@ -40,8 +40,8 @@ export const AboutSection = () => {
 
                 {/* Button for English CV */}
                 <a
-                    href="/english.pdf" // Update with the actual path to your English CV
-                    download="ABDELFATTAH MOSTAKIR - CV English.pdf" // Suggests a filename for download
+                    href="/ABDELFATTAH _MOSTAKIR_English.pdf" // Update with the actual path to your English CV
+                    download="ABDELFATTAH _MOSTAKIR_English.pdf" // Suggests a filename for download
                     className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 flex items-center justify-center"
                 >
                   Download CV (EN)
@@ -49,8 +49,8 @@ export const AboutSection = () => {
 
                 {/* Button for French CV */}
                 <a
-                    href="/fr.pdf" // Update with the actual path to your French CV
-                    download="ABDELFATTAH MOSTAKIR - CV French.pdf" // Suggests a filename for download
+                    href="/ABDELFATTAH _MOSTAKIR_French.pdf" // Update with the actual path to your French CV
+                    download="ABDELFATTAH _MOSTAKIR_French.pdf" // Suggests a filename for download
                     className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 flex items-center justify-center"
                 >
                   Download CV (FR)
