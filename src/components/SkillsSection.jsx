@@ -9,26 +9,27 @@ const skills = [
   { name: "FastAPI", level: 75, category: "backend" },
   // --- Technicals (DevOps, DB & Tools - Mapped to 'tools') ---
   // Databases
-  { name: "PostgreSQL", level: 90, category: "tools" }, // Heavily used
-  { name: "MySQL, MongoDB, Redis", level: 75, category: "tools" },
+  { name: "PostgreSQL, Oracle, MySQL", level: 90, category: "tools" }, // Heavily used
+  { name: "Cassandra, MongoDB, Redis", level: 80, category: "tools" },
 
   // DevOps & Cloud
-  { name: "AWS", level: 80, category: "tools" },
-  { name: "Kubernetes (K8s)", level: 85, category: "tools" }, // Based on CV (K8s 1.31)
-  { name: "Terraform", level: 75, category: "tools" },
-  { name: "Jenkins, SonarQube, ArgoCD", level: 70, category: "tools" },
+  { name: "Kubernetes (K8s)", level: 90, category: "tools" }, // Based on CV (K8s 1.31)
+  { name: "Jenkins, SonarQube, ArgoCD", level: 90, category: "tools" },
+  { name: "AWS", level: 85, category: "tools" },
+  { name: "Terraform", level: 80, category: "tools" },
+
+  { name: "Git, GitHub, GitLab CI", level: 90, category: "tools" },
+  { name: "JUnit, Mockito, JMeter", level: 90, category: "tools" },
+
+  { name: "Python / Bash", level: 80, category: "tools" },
 
   // --- Technicals (Frontend) ---
-  { name: "Angular ", level: 85, category: "frontend" }, // Based on CV (Angular 19)
+  { name: "Angular ", level: 90, category: "frontend" }, // Based on CV (Angular 19)
   { name: "React.js", level: 70, category: "frontend" },
   { name: "Tailwind", level: 70, category: "frontend" },
 
-  // CI/CD, Code Management & Testing
-  { name: "Git, GitHub, GitLab CI", level: 90, category: "tools" },
-  { name: "JUnit, Mockito, Postman, JMeter", level: 85, category: "tools" },
 
   // Systems & Automation
-  { name: "Python / Bash", level: 70, category: "tools" },
 ];
 
 // Define the categories for filtering
